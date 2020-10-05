@@ -1,0 +1,18 @@
+.detail__container{
+ margin-left: 50px;
+ height: 100%;
+}
+.detail__container span{
+
+}
+.detail__container span:first-child{
+ font-size: 38px;
+}
+.detail__container img{
+    padding: 55px;
+    margin-left: 50px;
+}
+.last__span {
+    display: block;
+    margin-bottom: 50px;
+}
